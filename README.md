@@ -1,11 +1,11 @@
 # 🛡️ TryHackMe Writeups
 
-![Repo Size](https://img.shields.io/github/repo-size/WhiteHatWolf/TryHackMe-Writeups?color=blue)
-![Stars](https://img.shields.io/github/stars/yourWhiteHatWolf/TryHackMe-Writeups?style=social)
-![Forks](https://img.shields.io/github/forks/WhiteHatWolf/TryHackMe-Writeups?style=social)
-![Issues](https://img.shields.io/github/issues/WhiteHatWolf/TryHackMe-Writeups)
-![License](https://img.shields.io/github/license/WhiteHatWolf/TryHackMe-Writeups)
-![Last Commit](https://img.shields.io/github/last-commit/WhiteHatWolf/TryHackMe-Writeups)
+![Repo Size](https://img.shields.io/github/repo-size/WhiteHatWolf/tryhackme-writeups?color=blue)
+![Stars](https://img.shields.io/github/stars/yourWhiteHatWolf/tryhackme-writeups?style=social)
+![Forks](https://img.shields.io/github/forks/WhiteHatWolf/tryhackme-writeups?style=social)
+![Issues](https://img.shields.io/github/issues/WhiteHatWolf/tryhackme-writeups)
+![License](https://img.shields.io/github/license/WhiteHatWolf/tryhackme-writeups)
+![Last Commit](https://img.shields.io/github/last-commit/WhiteHatWolf/tryhackme-writeups)
 ![Made With](https://img.shields.io/badge/Made%20With-Markdown-blue)
 ![Platform](https://img.shields.io/badge/Platform-TryHackMe-red)
 
